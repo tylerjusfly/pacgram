@@ -33,7 +33,7 @@ const audio = document.querySelector(".audio")
 const songs = ['Picture Me Rolling - Tupac', 'Tupac Shakur Dear Mama', 'Thugz Mansion - Tupac', '2pac ft Outlawz High speed']
 
 // Keep track on songs 
-let songIndex = 3
+let songIndex = 2
 
 // load song Info
 loadSong(songs[songIndex])
