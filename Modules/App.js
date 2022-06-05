@@ -11,3 +11,9 @@ const App = () => {
 
 
 document.getElementById("root").innerHTML = App()
+
+const themeSwitch = document.querySelector('.toggleMe');
+
+themeSwitch.addEventListener('change', () => {
+  document.body.classList.toggle('dark-theme');
+});
