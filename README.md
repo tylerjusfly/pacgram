@@ -33,4 +33,7 @@ creating normal design for future Design of Pacify, with React
 - [ ] AI TO DISPLAY TUPAC SONGS ON THE PLATFORM
 - [ ] IP ADDRESS WILL BE USED TO KEEP TRACK OF LISTENERS
 
+## LINKS
+- Figma Design 
 
+https://www.figma.com/file/izuXF42jztHwT4FEl4bJZA/pac-music?node-id=0%3A1
