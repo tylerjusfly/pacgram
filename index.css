@@ -128,11 +128,14 @@ nav{
     }
 
     /* Body Styles */
+    .container{
+        display: grid;
+    }
     .container > .image-container {
-        background-color: brown;
+       margin: auto;
     }
     .container > .image-container > img {
-        width: 400px;
+        width: 350px;
     }
 
 }
