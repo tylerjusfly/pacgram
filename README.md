@@ -1,4 +1,8 @@
-### a APP to stream only 2pac musics
+## Streaming only 2pac Songs Design
+
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+
 creating normal design for future use, with React
 
 ### Functionality

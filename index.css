@@ -127,4 +127,12 @@ nav{
         vertical-align: middle;
     }
 
+    /* Body Styles */
+    .container > .image-container {
+        background-color: brown;
+    }
+    .container > .image-container > img {
+        width: 400px;
+    }
+
 }
