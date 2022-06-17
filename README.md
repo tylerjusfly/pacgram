@@ -27,8 +27,7 @@ creating normal design for future Design of Pacify, with React
 - [ ] Create signup page (not neccesary tho)
 
 
-### Functionality
-STREAMS SONGS
+## Functionality
 - [ ] SEARCH FOR SONGS
 - [ ] STREAM SONGS
 - [ ] AI TO DISPLAY TUPAC SONGS ON THE PLATFORM
