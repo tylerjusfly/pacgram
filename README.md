@@ -1,7 +1,9 @@
 ## Streaming only 2pac Songs Design
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+<div align="center">
+  <a href="https://github.com/tylerjusfly/pacgram">
+    <img src="https://avatars.githubusercontent.com/u/106885719?s=200&v=4" alt="Logo" width="80" height="80">
+  </a>
 
 creating normal design for future use, with React
 
