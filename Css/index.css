@@ -60,7 +60,6 @@ nav{
     object-fit: cover;
 }
 .section-text{
-    /* background-color: brown; */
     display: grid;
     place-content: center;
     /* margin: auto; */
