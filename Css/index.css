@@ -68,6 +68,8 @@ nav{
     font-family: Inria Sans;
     letter-spacing: 5px;
     font-size: 2.0em;
+    font-weight: 900;
+    margin-bottom: 1.5em;
 }
 
 .section-text > button{
@@ -80,6 +82,10 @@ nav{
     font-weight: 700;
     cursor: pointer;
     border-radius: 5px;
+}
+.section-text > button > a {
+    text-decoration: none;
+    color: var(--black);
 }
 .section-text > .heatOfMusicDiv{
     margin-bottom: 2em;
@@ -173,11 +179,14 @@ nav{
         min-width: 7.5em;
         height: 3em;
         background-color: #38814d;
-        color: var(--black);
-        font: 1em inria Sans;
         border: unset;
-        font-weight: 700;
         cursor: pointer;
         border-radius: 5px;
+    }
+    .section-text > button > a {
+        text-decoration: none;
+        color: var(--black);
+        font: 1em inria Sans;
+        font-weight: 700;
     }
 }
