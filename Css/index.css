@@ -114,9 +114,9 @@ nav{
         padding: 12px;
         border-radius: 3px;
         border: unset;
-
     }
     nav > .search-box > button {
+        align-self: center;
         margin : auto;
         height: 40;
         width: 80;
