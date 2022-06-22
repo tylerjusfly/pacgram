@@ -28,14 +28,14 @@ nav{
 .search-box > input{
     height: 50;
     font-size: 15px;
-    padding: 13px;
+    padding-left: 13px;
     background-color: var(--hash);
     color: var( --white );
     border: none;
     border-radius: 3px;
 }
 .search-box > button{
-    height: 50;
+    height: 45;
     width: 100;
     font-size: 1em;
     margin-left: 1em;
@@ -84,6 +84,9 @@ nav{
 .section-text > .heatOfMusicDiv{
     margin-bottom: 2em;
     font-size: 1em;
+}
+.container .sm-pacify{
+    display: none;
 }
 
 }
@@ -137,4 +140,38 @@ nav{
         width: 350px;
     }
 
+    /* styles for text */
+    .container .section-text{
+        display: grid;
+        place-content: center;
+    }
+    .container .pacify{
+        display: none;
+    }
+    .sm-pacify{
+        text-align: center;
+        margin-top: 2em;
+        font-size: 2em;
+        font-weight: 800;
+        border: 1px solid red;
+        font-family: Inria Sans;
+        letter-spacing: 5px;
+    }
+    .section-text .heatOfMusicDiv{
+        margin-top: 1rem;
+        font: 1em inria Sans;
+
+    }
+    .section-text button{
+        margin: 1.5rem 0 1.5rem 0;
+        min-width: 7.5em;
+        height: 3em;
+        background-color: #38814d;
+        color: var(--black);
+        font: 1.3em inria Sans;
+        border: unset;
+        font-weight: 700;
+        cursor: pointer;
+        border-radius: 5px;
+    }
 }
