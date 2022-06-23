@@ -167,6 +167,7 @@ nav{
     .sm-pacify .poem-title {
         text-align: center;
         padding-top: 10px;
+        font-weight: 700;
         font-family: inria Sans;
     }
     .section-text .heatOfMusicDiv{
