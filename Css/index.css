@@ -29,6 +29,7 @@ nav{
     height: 50;
     font-size: 15px;
     padding-left: 13px;
+    vertical-align: middle;
     background-color: var(--hash);
     color: var( --white );
     border: none;
@@ -38,6 +39,7 @@ nav{
     height: 45;
     width: 100;
     font-size: 1em;
+    vertical-align: middle;
     margin-left: 1em;
     border-radius: 3px;
     border: none;
