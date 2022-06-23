@@ -6,27 +6,13 @@
 }
 
 body {
-    background-color: #000;
-    display: grid;
-    place-content: center;
+    background-color: var(--black);
 }
 
-#musicLib{
-    display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
-    flex-direction: column;
-    gap: 30px;
-    padding: 35px;
-    background-color: var(--background);
-    width: 489px;
-    min-height: 534px;
-}
-#musicLib h3 {
-    text-align: center;
-}
 .music-card{
     display: flex;
+    margin: 30px;
+    /* margin-bottom: 30px; */
     background-color: #555555;
     padding: 10px 40px 10px 30px ;
     gap: 30px;
@@ -38,5 +24,12 @@ body {
 .music-card span{
     align-self: center;
     color: var(--white);
-    /* align-items: center; */
+}
+
+@media (max-width: 789px) {
+    .music-card{
+        max-width: 40rem;
+    }
+
+
 }
