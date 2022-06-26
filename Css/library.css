@@ -7,6 +7,11 @@
 
 body {
     background-color: var(--black);
+    color: var(--white);
+}
+
+h3{
+    text-align: center;
 }
 
 .music-card{
@@ -28,7 +33,7 @@ body {
 
 @media (max-width: 789px) {
     .music-card{
-        margin: 40px 12px 10px;
+        margin: 40px 17px 17px;
         max-width: 40rem;
         min-width: 13rem;
     }
@@ -38,6 +43,5 @@ body {
     .music-card span{
         font-size: 0.9rem;
     }
-
 
 }

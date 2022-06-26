@@ -9,17 +9,5 @@ const App = () => {
     `
 }
 
-// const Library = () => {
-//     return `
-//         <h3>Songs Library</h3>
-//         ${MusicCard()}
-//         ${MusicCard()}
-//         ${MusicCard()}
-//         ${MusicCard()}
-//         ${MusicCard()}
-//     `
-// }
 
 document.getElementById("root").innerHTML = App()
-
-// document.getElementById("musicLib").innerHTML = Library()
