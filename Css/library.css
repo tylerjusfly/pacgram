@@ -28,7 +28,7 @@ body {
 
 @media (max-width: 789px) {
     .music-card{
-        margin: 35px 12px 10px;
+        margin: 40px 12px 10px;
         max-width: 40rem;
         min-width: 13rem;
     }
