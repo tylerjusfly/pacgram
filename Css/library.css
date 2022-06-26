@@ -11,7 +11,7 @@ body {
 
 .music-card{
     display: flex;
-    margin: 60px 100px 50px;
+    margin: 50px 100px 50px;
     /* margin-bottom: 30px; */
     background-color: #555555;
     padding: 10px 40px 10px 30px ;
@@ -28,7 +28,9 @@ body {
 
 @media (max-width: 789px) {
     .music-card{
+        margin: 35px 12px 10px;
         max-width: 40rem;
+        min-width: 13rem;
     }
     .music-card img{
         width: 25px;
