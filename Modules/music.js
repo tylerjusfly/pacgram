@@ -1,4 +1,5 @@
 const root = document.getElementById("root")
+const film = document.querySelector(".film")
 
     // Song title array 
     const songs = ['Picture Me Rolling - Tupac', 'Tupac Shakur Dear Mama', 'Thugz Mansion - Tupac', '2pac ft Outlawz High speed']
@@ -54,6 +55,4 @@ const root = document.getElementById("root")
             }
         })
     }
-
-
 

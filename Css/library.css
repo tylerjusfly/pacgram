@@ -25,6 +25,12 @@ h3{
 }
 .music-card img{
     width: 30px;
+    cursor: pointer;
+}
+.music-card img:hover{
+    /* color: white; */
+    background-color: white;
+    border-radius: 50%;
 }
 .music-card span{
     align-self: center;
@@ -39,6 +45,7 @@ h3{
     }
     .music-card img{
         width: 25px;
+        cursor: pointer;
     }
     .music-card span{
         font-size: 0.9rem;
