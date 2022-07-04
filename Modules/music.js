@@ -3,9 +3,8 @@ const root = document.getElementById("root")
     // Song title array 
     const songs = ['Picture Me Rolling - Tupac', 'Tupac Shakur Dear Mama', 'Thugz Mansion - Tupac', '2pac ft Outlawz High speed']
 
-
+        // Loopng through songs in array
     for(let i = 0; i < songs.length; i++){
-        console.log(songs[i])
 
         // Creating music card div
         const musicCard = document.createElement('div')
