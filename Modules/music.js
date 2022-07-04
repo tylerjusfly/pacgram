@@ -1,8 +1,7 @@
 const root = document.getElementById("root")
-const film = document.querySelector(".film")
 
     // Song title array 
-    const songs = ['Picture Me Rolling - Tupac', 'Tupac Shakur Dear Mama', 'Thugz Mansion - Tupac', '2pac ft Outlawz High speed']
+    const songs = ['Picture Me Rolling - Tupac', 'Tupac Shakur Dear Mama', 'Thugz Mansion - Tupac', '2pac ft Outlawz High speed', '2Pac RL Hugger Until The End Of Time Letterbox Version']
 
         // Loopng through songs in array
     for(let i = 0; i < songs.length; i++){
