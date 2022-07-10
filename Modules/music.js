@@ -6,7 +6,7 @@ const root = document.getElementById("root")
         // Loopng through songs in array
     songs.map((val ) => {
         //console.log(index)
-        console.log(val)
+        //console.log(val)
 
         // Creating music card div
         const musicCard = document.createElement('div')
@@ -16,7 +16,7 @@ const root = document.getElementById("root")
         // // inserting img tag
         const playBtn = document.createElement('img')
         playBtn.setAttribute('id', 'play')
-        
+
         playBtn.src = '../images/circle-play-solid.svg'
         playBtn.alt = 'play'
         musicCard.appendChild(playBtn)
